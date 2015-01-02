@@ -1,4 +1,4 @@
-tech273
+CMAP 273 - Advanced Web Technologies
 =======
 
-Advanced Web Technologies
+Syllabus and course materials coming soon.
